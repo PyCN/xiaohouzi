@@ -1,6 +1,6 @@
 # 小猴子加速器
 小猴子网站发布平台
-[![小猴子加速器](https://raw.githubusercontent.com/wggwcn/xiaohouzi/master/pic/xiaohozilogo.png "小猴子加速器")](https://raw.githubusercontent.com/wggwcn/xiaohouzi/master/pic/xiaohozilogo.png "小猴子加速器")
+[![小猴子加速器](https://raw.githubusercontent.com/wggwcn/xiaohouzi/master/pic/xiaohozilogo.png "小猴子加速器")](http://www.xiaohouzipapa.tech/ "小猴子加速器")
 
 - 小猴子网站
  - 小猴子原始网站www.menmanyu.com 被墙  （国内国外无法访问）
