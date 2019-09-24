@@ -17,5 +17,9 @@
  
  [小猴子windows专业版下载](https://raw.githubusercontent.com/wggwcn/xiaohouzi/master/%E5%B0%8F%E7%8C%B4%E5%AD%90%E5%8A%A0%E9%80%9F%E5%99%A8setup.rar "小猴子windows专业版下载")
  
+ 
+ [小猴子安卓专业版下载]
+ (https://raw.githubusercontent.com/xiaohouzivpn/xiaohouzi/master/xiaohouzijiasuqi.apk "小猴子安卓专业版下载")
+ 
  ------------
  如果您有任何问题 请联系小猴子邮箱 ppssqqq@gmail.com
