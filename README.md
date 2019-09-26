@@ -19,7 +19,7 @@
  
 [小猴子安卓专业版下载](https://raw.githubusercontent.com/xiaohouzivpn/xiaohouzi/master/xiaohouzijiasuqi.apk "小猴子安卓专业版下载") 
 
-[MAC版本下载](https://raw.githubusercontent.com/xiaohouzivpn/xiaohouzi/master/ShadowsocksX-NG-R8.dmgk "MAC版本下载") 
+[MAC版本下载](https://raw.githubusercontent.com/xiaohouzivpn/xiaohouzi/master/ShadowsocksX-NG-R8.dmg "MAC版本下载") 
  
  ------------
  如果您有任何问题 请联系小猴子邮箱 ppssqqq@gmail.com
