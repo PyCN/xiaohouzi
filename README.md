@@ -9,7 +9,7 @@
    -  www.xiaohouzipapa.tech   被墙（国内无法访问，国外可以访问）
  ------------
      
-     可以直接访问  http://47.56.173.48/
+     可以直接访问  https://www.xiaohouzilala.xyz
   
  ------------
  
