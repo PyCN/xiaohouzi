@@ -6,10 +6,10 @@
  - 小猴子原始网站www.menmanyu.com 被墙  （国内国外无法访问）
    -  www.menmanyu.site  被墙（国内无法访问，国外可以访问）
    -  www.menmanyu.club  被墙（国内无法访问，国外可以访问）
- 
+   -  www.xiaohouzipapa.tech   被墙（国内无法访问，国外可以访问）
  ------------
      
-     可以直接访问 www.xiaohouzipapa.tech
+     可以直接访问  http://47.56.173.48/
   
  ------------
  
