@@ -39,7 +39,7 @@
 ### 如果阁下有任何问题可以联系小猴子，小猴子的邮箱 ppssqqq@gmail.com
 
 
-# Table of contents
+# 教程以及个版本下载
 
 * [小猴子科学上网](README.md)
 * [充值续费教程](chong-zhi-xu-fei-jiao-cheng/README.md)
