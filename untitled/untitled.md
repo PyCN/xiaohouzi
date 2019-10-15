@@ -6,9 +6,9 @@ description: 小猴子安卓版非常方便 支持内部充值与续费
 
 小猴子专用安卓客户端：
 
-{% file src="../.gitbook/assets/xiaohouzijiasuqi.rar" caption="小猴子安卓专用版--压缩文件备份" %}
 
-[小猴子安卓客户端—&gt;点我下载](http://45.77.124.7/ssr-download/xiaohouzijiasuqi.apk)
+
+[小猴子安卓客户端—&gt;点我下载](https://raw.githubusercontent.com/xiaohouzivpn/xiaohouzi/master/xiaohouzijiasuqi.apk)
 
 
 
