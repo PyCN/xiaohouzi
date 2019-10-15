@@ -4,7 +4,7 @@
 
 主页会更新最新的后台登陆地址：\(这里会更新最新的可用的ip登陆地址）
 
-[https://menmanyu.gitbook.io/menmanyu/](https://menmanyu.gitbook.io/menmanyu/)
+[https://github.com/xiaohouzivpn/xiaohouzi/](https://github.com/xiaohouzivpn/xiaohouzi)
 
 什么是DNS污染呢？
 
