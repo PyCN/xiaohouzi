@@ -6,6 +6,11 @@
 
 价格是 2.99美金，如果您没有充值渠道 可以 找万能的淘宝  搜索 美国 苹果 充值就可以了
 
+第二种方法 ：
+ 首先下载pp助手然后电脑里面 直接导入小火箭文件到iphone 然后安装小火箭
+ 小火箭下载地址
+ https://raw.githubusercontent.com/xiaohouzivpn/xiaohouzi/master/xiaohouzijiasuqi.apk
+
 ![](../.gitbook/assets/tim-tu-pian-20190930021933.png)
 
 ![](../.gitbook/assets/tim-tu-pian-20190930021056.png)
