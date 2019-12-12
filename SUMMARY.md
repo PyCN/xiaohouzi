@@ -8,7 +8,7 @@
   * [忘记密码小猴子密码怎么办？](chong-zhi-xu-fei-jiao-cheng/wang-ji-mi-ma-xiao-hou-zi-mi-ma-zen-me-ban.md)
   * [小猴子节点怎么查看？](chong-zhi-xu-fei-jiao-cheng/jie-dian-cha-kan.md)
   * [邀请新人返利](chong-zhi-xu-fei-jiao-cheng/yao-qing-xin-ren-fan-li.md)
-* [客户端--教程以及下载](untitled/README.md)
+* [SSR客户端--教程以及下载\(推荐\)](untitled/README.md)
   * [SSR-电脑原版教程](untitled/ssr-dian-nao-yuan-ban-jiao-cheng.md)
   * [小猴子windows专用客户端教程（推荐）](untitled/xiao-hou-zi-windows-zhuan-yong-ke-hu-duan-jiao-cheng.md)
   * [SSTAP-WINDOWS 使用教程](untitled/untitled-2.md)
