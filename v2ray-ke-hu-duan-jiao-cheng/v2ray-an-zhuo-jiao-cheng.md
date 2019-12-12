@@ -12,13 +12,13 @@ V2RAY 安卓导入节点教程
 
 第四步  选择V2RAY节点科学上网
 
-![](../../.gitbook/assets/01%20%281%29.png)
+![](../.gitbook/assets/01%20%282%29.png)
 
-![](../../.gitbook/assets/tim-tu-pian-20191213012913%20%281%29.png)
+![](../.gitbook/assets/tim-tu-pian-20191213012913%20%283%29.png)
 
-![](../../.gitbook/assets/tim-tu-pian-20191213012946.png)
+![](../.gitbook/assets/tim-tu-pian-20191213012946%20%281%29.png)
 
-![](../../.gitbook/assets/tim-tu-pian-20191213013011%20%281%29.png)
+![](../.gitbook/assets/tim-tu-pian-20191213013011.png)
 
-![](../../.gitbook/assets/tim-tu-pian-20191213013034%20%281%29.png)
+![](../.gitbook/assets/tim-tu-pian-20191213013034.png)
 
