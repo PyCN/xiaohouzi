@@ -22,7 +22,9 @@
 
 [github.com/xiaohouzivpn/xiaohouzi](https://github.com/xiaohouzivpn/xiaohouzi)
 
-请大家使用小猴子最新的防封客户端：这里有WINDOWS 版本和 安卓版本
+请大家使用小猴子最新的防封客户端：这里有WINDOWS 版本和 安卓版本 MAC苹果电脑版本
+
+目前正在开发 SSR IOS版本 V2RAY MAC 和 V2RAY版本 近期会上线
 
 #### 如果阁下有任何问题可以联系小猴子，小猴子的邮箱 ppssqqq@gmail.com
 
