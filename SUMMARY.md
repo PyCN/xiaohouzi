@@ -22,6 +22,7 @@
 * [V2RAY-客户端教程](v2ray-ke-hu-duan-jiao-cheng/README.md)
   * [V2RAY-windows pc 教程](v2ray-ke-hu-duan-jiao-cheng/v2raywindows-pc-jiao-cheng/README.md)
     * [V2RAY-安卓教程](v2ray-ke-hu-duan-jiao-cheng/v2raywindows-pc-jiao-cheng/v2ray-an-zhuo-jiao-cheng.md)
+    * [V2RAY-IOS 苹果手机客户端](v2ray-ke-hu-duan-jiao-cheng/v2raywindows-pc-jiao-cheng/v2rayios-ping-guo-shou-ji-ke-hu-duan.md)
 * [科学上网无法使用问题汇总](ke-xue-shang-wang-wu-fa-shi-yong-wen-ti-hui-zong.md)
 * [小猴子网站打不开解决办法](xiao-hou-zi-wang-zhan-da-bu-kai.md)
 
