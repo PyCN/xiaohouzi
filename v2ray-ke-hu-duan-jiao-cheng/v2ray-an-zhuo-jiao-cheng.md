@@ -11,6 +11,7 @@ V2RAY 安卓导入节点教程
 第三步  将V2RAY订阅链接导入 V2RAY 软件并更新订阅
 
 第四步  选择V2RAY节点科学上网
+<video width="400" height="960" controls=""><source src="https://www.xiaohouzilala.fun/download/xiaohouziandroid/1125_011502.mp4" type="video/mp4"></video>
 
 ![](../.gitbook/assets/01%20%282%29.png)
 
