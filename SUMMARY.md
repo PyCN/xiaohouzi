@@ -14,6 +14,7 @@
   * [SSTAP-WINDOWS 使用教程](untitled/untitled-2.md)
   * [原版安卓SSR教程](untitled/untitled-1.md)
   * [安卓手机–小猴子专用客户端\(推荐）](untitled/untitled.md)
+  * [苹果MAC MACBOOK小猴子专用客户端（推荐）](untitled/ping-guo-mac-macbook-xiao-hou-zi-zhuan-yong-ke-hu-duan-tui-jian.md)
   * [苹果MAC 使用教程](untitled/ping-guo-mac-shi-yong-jiao-cheng.md)
   * [苹果手机IPHONE IPAD 教程](untitled/ping-guo-shou-ji-iphone-ipad-jiao-cheng.md)
   * [Ubuntu](untitled/ubuntu.md)
