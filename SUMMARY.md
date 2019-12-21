@@ -17,6 +17,7 @@
   * [安卓手机–小猴子专用客户端\(推荐）](untitled/untitled.md)
   * [苹果MAC MACBOOK小猴子专用客户端（推荐）](untitled/ping-guo-mac-macbook-xiao-hou-zi-zhuan-yong-ke-hu-duan-tui-jian.md)
   * [苹果MAC 使用教程](untitled/ping-guo-mac-shi-yong-jiao-cheng.md)
+  * [小猴子苹果IOS IPAD 专用客户端](untitled/xiao-hou-zi-ping-guo-ios-ipad-zhuan-yong-ke-hu-duan.md)
   * [苹果手机IPHONE IPAD 教程](untitled/ping-guo-shou-ji-iphone-ipad-jiao-cheng.md)
   * [Ubuntu](untitled/ubuntu.md)
   * [路由器搭建教程](untitled/lu-you-qi-da-jian-jiao-cheng.md)
