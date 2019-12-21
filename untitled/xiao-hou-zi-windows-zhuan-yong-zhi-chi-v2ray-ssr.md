@@ -6,7 +6,7 @@ description: 小猴子windows 专用 同时支持 V2RAY SSR 加密方式
 
 小猴子V2RAY SSR 专用版  简单高效，您只需要输入您的小猴子账号和密码就可以科学上网
 
-[小猴子V2ray+SSR下载 链接----&lt;&lt;&lt;&lt;&lt;点这里](https://app.box.com/s/1p59dvlf9l1jphadne5zxdgdh90yokkp)
+[小猴子V2ray+SSR下载 链接----&lt;&lt;&lt;&lt;&lt;点这里](http://www.shenlejiang.xyz/ss/xiaohouzissrv2.exe)
 
 第一步使用小猴子邮箱和密码登陆客户端
 
