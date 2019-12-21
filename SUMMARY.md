@@ -11,6 +11,7 @@
 * [SSR客户端--教程以及下载\(推荐\)](untitled/README.md)
   * [SSR-电脑原版教程](untitled/ssr-dian-nao-yuan-ban-jiao-cheng.md)
   * [小猴子windows专用客户端教程（推荐）](untitled/xiao-hou-zi-windows-zhuan-yong-ke-hu-duan-jiao-cheng.md)
+  * [小猴子windows 专用 支持V2RAY SSR](untitled/xiao-hou-zi-windows-zhuan-yong-zhi-chi-v2ray-ssr.md)
   * [SSTAP-WINDOWS 使用教程](untitled/untitled-2.md)
   * [原版安卓SSR教程](untitled/untitled-1.md)
   * [安卓手机–小猴子专用客户端\(推荐）](untitled/untitled.md)
