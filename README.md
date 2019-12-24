@@ -8,13 +8,9 @@
 
 **www.menmanyu.com 已经DNS污染 无法使用 （放弃）**
 
-**www.menmanyu.club 被墙 大陆地区DNS污染，开代理可以打开**
 
-**www.menmanyu.site 被墙 大陆地区DNS污染，开代理可以打开**
 
-**www.xiaohouzilala.xyz 被墙 大陆地区DNS污染，开代理可以打开**
-
-[https://www.xiaohouzilala.fun](https://www.xiaohouzilala.fun) **** 国内和国外可以打开
+[https://www.xiaohouzilala.site](https://www.xiaohouzilala.site) **** 国内和国外可以打开
 
 **最新登陆面板地址**:
 
