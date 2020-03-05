@@ -4,8 +4,6 @@
 
 {% page-ref page="ssr-dian-nao-yuan-ban-jiao-cheng.md" %}
 
-{% page-ref page="xiao-hou-zi-windows-zhuan-yong-ke-hu-duan-jiao-cheng.md" %}
-
 {% page-ref page="untitled-2.md" %}
 
 {% page-ref page="untitled-1.md" %}

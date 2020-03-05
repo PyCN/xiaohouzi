@@ -1,4 +1,4 @@
-# SSTAP-WINDOWS 使用教程
+# SSTAP-WINDOWS 游戏端 教程
 
 SSTAP 和 shadowsocksR原版功能一样 只是使用方法更加简单，同样也适用于网站面板 —- 适用于windows xp 7 和10 等windows系统版本[SSTap-beta-setup-1.0.9.7](http://www.shenlejiang.xyz/wp-content/uploads/2019/05/SSTap-beta-setup-1.0.9.7.zip)[下载](http://www.shenlejiang.xyz/wp-content/uploads/2019/05/SSTap-beta-setup-1.0.9.7.zip)
 

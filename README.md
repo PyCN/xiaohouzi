@@ -8,9 +8,7 @@
 
 **www.menmanyu.com 已经DNS污染 无法使用 （放弃）**
 
-
-
-[https://www.xiaohouzilala.site](https://www.xiaohouzilala.site) **** 国内和国外可以打开
+[https://www.xiaohouzilala.site](https://www.xiaohouzilala.site) _\*\*_ 国内和国外可以打开
 
 **最新登陆面板地址**:
 
@@ -36,7 +34,7 @@
   * [邀请新人返利](chong-zhi-xu-fei-jiao-cheng/yao-qing-xin-ren-fan-li.md)
 * [客户端--教程以及下载](untitled/)
   * [SSR-电脑原版教程](untitled/ssr-dian-nao-yuan-ban-jiao-cheng.md)
-  * [小猴子windows专用客户端教程（推荐）](untitled/xiao-hou-zi-windows-zhuan-yong-ke-hu-duan-jiao-cheng.md)
+  * [小猴子windows专用客户端教程（推荐）]()
   * [SSTAP-WINDOWS 使用教程](untitled/untitled-2.md)
   * [原版安卓SSR教程](untitled/untitled-1.md)
   * [安卓手机–小猴子专用客户端\(推荐）](untitled/untitled.md)
