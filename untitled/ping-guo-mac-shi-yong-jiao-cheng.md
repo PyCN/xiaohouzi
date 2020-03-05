@@ -1,4 +1,6 @@
-# 苹果MAC 使用教程
+# 苹果MAC 原版使用教程
+
+ShadowsocksX-NG-R8
 
 {% file src="../.gitbook/assets/ssr-mac.zip" %}
 
