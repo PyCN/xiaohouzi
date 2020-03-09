@@ -38,5 +38,7 @@ Netch 是一款同时支持 SSR V2RAY 的加速软件，并且支持游戏加速
 
 ![](../.gitbook/assets/0042.png)
 
+下面服务器配置导入完成后选择一个节点，然后启动就可以了
+
 ![](../.gitbook/assets/0043.png)
 
