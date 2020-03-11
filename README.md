@@ -8,7 +8,7 @@
 
 **www.menmanyu.com 已经DNS污染 无法使用 （放弃）**
 
-[https://www.xiaohouzilala.site](https://www.xiaohouzilala.site) _\*\*_ 国内和国外可以打开
+[https://xiaohouzilaaa.site](https://www.xiaohouzilaaa.site) _\*\*_ 国内和国外可以打开
 
 **最新登陆面板地址**:
 
