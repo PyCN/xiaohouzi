@@ -2,11 +2,9 @@
 
 以上为安卓SSR 软体下载链接
 
-[安卓客户端下载地址](http://45.77.124.7/ssr-download/ssr-android.apk)---大陆点击下载
+[安卓客户端下载地址---大陆点击下载](https://coding-net-production-file-1257242599.cos.ap-shanghai.myqcloud.com/25abe4e0-726f-11ea-adeb-e3647bdd8d74.apk?sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKIDay83lFmaS6Y4LTdzMVO1SdZOyJSNOYpr%26q-sign-time%3D1585563263%3B1585566863%26q-key-time%3D1585563263%3B1585566863%26q-header-list%3D%26q-url-param-list%3Dresponse-content-disposition%3Bresponse-expires%26q-signature%3D4489cbd2dab59cbd463ff499fa77b1579fd2e265&response-content-disposition=attachment%3Bfilename%3Dssrv2ray.apk&response-expires=Wed%2C%2001%20Apr%202020%2022%3A14%3A23%20GMT)
 
 {% file src="../.gitbook/assets/ssr-android.rar" caption="安卓原版SSR-压缩包" %}
-
-[安卓客户端--大陆下载地址](http://www.shenlejiang.xyz/ss/ssr-android.apk)
 
 第一步打开网站面板 并切换到用户中心
 
