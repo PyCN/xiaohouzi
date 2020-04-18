@@ -34,7 +34,9 @@ win 10一下系统版本一般需要下载更新到.net 4.7以上版本才能使
 
 shadowsocksR 有2种方式可以添加代理节点
 
-一种：方式直接对面板的节点进行采集
+一种方式：直接对面板的节点进行采集
+
+
 
 ![](http://www.shenlejiang.xyz/wp-content/uploads/2019/05/asdd.jpg)
 
