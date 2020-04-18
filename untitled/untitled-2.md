@@ -4,7 +4,7 @@ SSTAP 和 shadowsocksR原版功能一样 只是使用方法更加简单，同样
 
 {% file src="../.gitbook/assets/sstap-1.7z" caption="sstap下载" %}
 
-[sstap 游戏专用加速器-- 中国大陆下载](http://www.shenlejiang.xyz/ss/sstap.7z)
+[sstap 游戏专用加速器-- 中国大陆下载](http://jc.muyiyun.top:276/SSTap-beta-setup-1.0.9.7.exe)
 
 
 
