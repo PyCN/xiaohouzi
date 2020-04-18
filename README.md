@@ -34,7 +34,7 @@
   * [邀请新人返利](chong-zhi-xu-fei-jiao-cheng/yao-qing-xin-ren-fan-li.md)
 * [客户端--教程以及下载](untitled/)
   * [SSR-电脑原版教程](untitled/ssr-dian-nao-yuan-ban-jiao-cheng.md)
-  * [小猴子windows专用客户端教程（推荐）]()
+  * [小猴子windows专用客户端教程（推荐）](./)
   * [SSTAP-WINDOWS 使用教程](untitled/untitled-2.md)
   * [原版安卓SSR教程](untitled/untitled-1.md)
   * [安卓手机–小猴子专用客户端\(推荐）](untitled/untitled.md)

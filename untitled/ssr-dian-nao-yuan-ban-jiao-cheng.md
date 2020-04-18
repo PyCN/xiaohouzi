@@ -10,15 +10,27 @@ SSR 的全称为SHADOWSOCKSRSSR原版软件下载下载
 
 注意：请您务必关闭或者卸载360 等杀毒软件（或者安装海外杀毒软件来保证您的电脑安全），要不然无法使用SSR，因为360等杀毒软件会收集您的电脑信息，会对您的电脑产生危险
 
-[https://dotnet.microsoft.com/download/dotnet-framework/net472](https://dotnet.microsoft.com/download/dotnet-framework/net472)![](http://www.shenlejiang.xyz/wp-content/uploads/2019/05/TIM%E5%9B%BE%E7%89%8720190502235007-1024x460.png)
+运行必要环境 .net 4.7 以上
+
+{% embed url="https://dotnet.microsoft.com/download/dotnet-framework/net472" %}
+
+
 
 win 10一下系统版本一般需要下载更新到.net 4.7以上版本才能使用shadowsocksr 原版
 
 第二步运行 shadowsocksR
 
+![](../.gitbook/assets/001.png)
+
 ![](http://www.shenlejiang.xyz/wp-content/uploads/2019/05/TIM%E5%9B%BE%E7%89%8720190502235520-1024x359.png)
 
 请您运行这个ShadowsocksR软件
+
+![](../.gitbook/assets/image%20%282%29.png)
+
+如果您是32位系统请运行ShadowsocksR-dotnet2.0.exe
+
+如果您是64位系统请运行ShadowsocksR-dotnet2.0.exe
 
 shadowsocksR 有2种方式可以添加代理节点
 
