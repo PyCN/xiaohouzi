@@ -26,7 +26,7 @@ win 10一下系统版本一般需要下载更新到.net 4.7以上版本才能使
 
 请您运行这个ShadowsocksR软件
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 如果您是32位系统请运行ShadowsocksR-dotnet2.0.exe
 
@@ -38,23 +38,23 @@ shadowsocksR 有2种方式可以添加代理节点
 
 当您充值并购买购买套餐后，您可以直接在节点列表里面导入SSR 链接到您的SSR软件里面
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 
 
 ![](http://www.shenlejiang.xyz/wp-content/uploads/2019/05/asdd.jpg)
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2814%29.png)
 
 ![](http://www.shenlejiang.xyz/wp-content/uploads/2019/05/TIM%E5%9B%BE%E7%89%8720190503000136-1024x330.png)
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
 右下角的编辑服务器菜单
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
 
 
@@ -62,19 +62,25 @@ shadowsocksR 有2种方式可以添加代理节点
 
 第二种方法：通过订阅节点来更新您的服务器节点信息。
 
+
+
 第一步，复制面板的节点订阅地址
+
+![](../.gitbook/assets/image%20%2816%29.png)
 
 ![](http://www.shenlejiang.xyz/wp-content/uploads/2019/05/TIM%E5%9B%BE%E7%89%8720190503001523-1024x639.png)
 
 订阅地址目录在 我的-&gt;用户中心-&gt;普通节点订阅
 
-![](http://www.shenlejiang.xyz/wp-content/uploads/2019/05/TIM%E5%9B%BE%E7%89%8720190503001659.png)
+![](../.gitbook/assets/image%20%2811%29.png)
 
 设置SSR服务器订阅设置
 
 ![](http://www.shenlejiang.xyz/wp-content/uploads/2019/05/TIM%E5%9B%BE%E7%89%8720190503001839-1024x572.png)
 
-在这里点击ADD 然后把面板的那个链接复制到里面，然后再网址这里添加您自己的订阅节点信息![](http://www.shenlejiang.xyz/wp-content/uploads/2019/05/TIM%E5%9B%BE%E7%89%8720190503002136.png)
+在这里点击ADD 然后把面板的那个链接复制到里面，然后再网址这里添加您自己的订阅节点信息
+
+![](../.gitbook/assets/image%20%282%29.png)
 
 每次需要更新节点信息的时候点击更新SSR服务器订阅信息（别点通过代理）![](http://www.shenlejiang.xyz/wp-content/uploads/2019/05/TIM%E5%9B%BE%E7%89%8720190503002328-1024x647.png)
 
