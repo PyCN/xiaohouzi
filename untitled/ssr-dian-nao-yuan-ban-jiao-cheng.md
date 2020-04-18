@@ -26,7 +26,7 @@ win 10一下系统版本一般需要下载更新到.net 4.7以上版本才能使
 
 请您运行这个ShadowsocksR软件
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%283%29.png)
 
 如果您是32位系统请运行ShadowsocksR-dotnet2.0.exe
 
@@ -36,11 +36,21 @@ shadowsocksR 有2种方式可以添加代理节点
 
 一种方式：直接对面板的节点进行采集
 
+当您充值并购买购买套餐后，您可以直接在节点列表里面导入SSR 链接到您的SSR软件里面
+
+![](../.gitbook/assets/image%20%286%29.png)
+
 
 
 ![](http://www.shenlejiang.xyz/wp-content/uploads/2019/05/asdd.jpg)
 
+![](../.gitbook/assets/image%20%289%29.png)
+
 ![](http://www.shenlejiang.xyz/wp-content/uploads/2019/05/TIM%E5%9B%BE%E7%89%8720190503000136-1024x330.png)
+
+![](../.gitbook/assets/image%20%281%29.png)
+
+![](../.gitbook/assets/image%20%284%29.png)
 
 右下角的编辑服务器菜单
 
