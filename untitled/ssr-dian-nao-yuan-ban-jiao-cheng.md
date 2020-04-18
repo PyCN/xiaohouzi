@@ -4,7 +4,7 @@ SSR 的全称为SHADOWSOCKSRSSR原版软件下载下载
 
 {% file src="../.gitbook/assets/ssr-win.7z" %}
 
-[SSR-电脑原版---  点击下载（中国大陆地区下载地址）](http://www.shenlejiang.xyz/ss/ssr-win.7z)
+[SSR-电脑原版---  点击下载（中国大陆地区下载地址）](http://jc.muyiyun.top:276/ShadowsocksR-win-4.9.0.zip)
 
 第一步首先确认shadowsocksr windows系统软件运行环境（win 10可以跳过）
 
