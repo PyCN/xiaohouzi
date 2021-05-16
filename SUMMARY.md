@@ -9,6 +9,7 @@
   * [小猴子节点怎么查看？](chong-zhi-xu-fei-jiao-cheng/jie-dian-cha-kan.md)
   * [邀请新人返利](chong-zhi-xu-fei-jiao-cheng/yao-qing-xin-ren-fan-li.md)
 * [SSR客户端--教程以及下载\(推荐\)](untitled/README.md)
+  * [Untitled](untitled/untitled-3.md)
   * [SSR-电脑原版教程](untitled/ssr-dian-nao-yuan-ban-jiao-cheng.md)
   * [小猴子windows 专用 支持V2RAY SSR](untitled/xiao-hou-zi-windows-zhuan-yong-zhi-chi-v2ray-ssr.md)
   * [SSTAP-WINDOWS 游戏端 教程](untitled/untitled-2.md)
@@ -27,4 +28,9 @@
   * [V2RAY-梅林路由器客户端使用教程](v2ray-ke-hu-duan-jiao-cheng/v2ray-mei-lin-lu-you-qi-ke-hu-duan-shi-yong-jiao-cheng.md)
 * [科学上网无法使用问题汇总](ke-xue-shang-wang-wu-fa-shi-yong-wen-ti-hui-zong.md)
 * [小猴子网站打不开解决办法](xiao-hou-zi-wang-zhan-da-bu-kai.md)
+
+## windows-PC
+
+* [PC–原版SSR](windows-pc/pc-yuan-ban-ssr.md)
+* [PC-SSTAP支持游戏](windows-pc/pcsstap-zhi-chi-you-xi.md)
 
