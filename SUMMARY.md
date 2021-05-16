@@ -58,3 +58,8 @@
 * [Potatso LITLE-SSR](ios-iphone-and-ipad/potatso-litle-ssr.md)
 * [Shadowrocket 小火箭-SSR&V2RAY](ios-iphone-and-ipad/shadowrocket-xiao-huo-jian-ssrv2ray.md)
 
+## Linux-ubuntu-v2ray
+
+* [v2rayL](linux-ubuntu-v2ray/v2rayl.md)
+* [QV2Ray](linux-ubuntu-v2ray/qv2ray.md)
+

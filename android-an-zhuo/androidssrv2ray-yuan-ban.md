@@ -24,7 +24,7 @@
 
 ![](https://ava.shenlejiang.xyz/wp-content/uploads/2020/06/4-575x1024.png)
 
-第四步：点击打开自动更新的按钮 然后点击＋号添加订阅![](../.gitbook/assets/qq-tu-pian-202006101142284.png)
+第四步：点击打开自动更新的按钮 然后点击＋号添加订阅![](../.gitbook/assets/qq-tu-pian-202006101142284%20%281%29.png)
 
 提示：您的订阅地址在网站面板的首页—-个人中心里面 点击复制即可![](../.gitbook/assets/5-575x1024.png)
 
