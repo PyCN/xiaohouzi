@@ -45,4 +45,9 @@
 ---
 
 * [MAC-SSR&V2RAY原版](macssrv2ray-yuan-ban.md)
+* [MAC-V2ray-clashx原版推荐](macv2rayclashx-yuan-ban-tui-jian.md)
+
+## android-安卓
+
+* [android-v2ray原版](android-an-zhuo/androidv2ray-yuan-ban.md)
 
