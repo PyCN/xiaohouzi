@@ -71,4 +71,5 @@
 ## 问题指南
 
 * [IOS端小火箭指南](wen-ti-zhi-nan/ios-duan-xiao-huo-jian-zhi-nan.md)
+* [安卓机型，使用过程中断网问题](wen-ti-zhi-nan/an-zhuo-ji-xing-shi-yong-guo-cheng-zhong-duan-wang-wen-ti.md)
 
