@@ -56,4 +56,5 @@
 ## ios-iphone&ipad
 
 * [Potatso LITLE-SSR](ios-iphone-and-ipad/potatso-litle-ssr.md)
+* [Shadowrocket 小火箭-SSR&V2RAY](ios-iphone-and-ipad/shadowrocket-xiao-huo-jian-ssrv2ray.md)
 
