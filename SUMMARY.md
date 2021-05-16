@@ -63,3 +63,7 @@
 * [v2rayL](linux-ubuntu-v2ray/v2rayl.md)
 * [QV2Ray](linux-ubuntu-v2ray/qv2ray.md)
 
+## 路由器
+
+* [梅林路由器openwrt](lu-you-qi/mei-lin-lu-you-qi-openwrt.md)
+
