@@ -66,4 +66,9 @@
 ## 路由器
 
 * [梅林路由器openwrt-v2ray](lu-you-qi/mei-lin-lu-you-qi-openwrt.md)
+* [梅林路由器openwrt-ssr](lu-you-qi/mei-lin-lu-you-qi-openwrtssr.md)
+
+## 问题指南
+
+* [IOS端小火箭指南](wen-ti-zhi-nan/ios-duan-xiao-huo-jian-zhi-nan.md)
 
