@@ -50,4 +50,5 @@
 ## android-安卓
 
 * [android-v2ray原版](android-an-zhuo/androidv2ray-yuan-ban.md)
+* [android-ssr&v2ray原版](android-an-zhuo/androidssrv2ray-yuan-ban.md)
 
