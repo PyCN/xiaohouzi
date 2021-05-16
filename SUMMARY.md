@@ -53,3 +53,7 @@
 * [android-ssr&v2ray原版](android-an-zhuo/androidssrv2ray-yuan-ban.md)
 * [android-小猴子专版SSR&V2RAY](android-an-zhuo/android-xiao-hou-zi-zhuan-ban-ssrv2ray.md)
 
+## ios-iphone&ipad
+
+* [Potatso LITLE-SSR](ios-iphone-and-ipad/potatso-litle-ssr.md)
+
