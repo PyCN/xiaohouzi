@@ -40,4 +40,9 @@
 ## Macos-苹果电脑
 
 * [MAC-SSR&V2RAY小猴子专版](macos-ping-guo-dian-nao/macssrv2ray-xiao-hou-zi-zhuan-ban.md)
+* [MAC-SSR原版](macos-ping-guo-dian-nao/macssr-yuan-ban.md)
+
+---
+
+* [MAC-SSR&V2RAY原版](macssrv2ray-yuan-ban.md)
 
