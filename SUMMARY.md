@@ -33,4 +33,11 @@
 
 * [PC–原版SSR](windows-pc/pc-yuan-ban-ssr.md)
 * [PC-SSTAP支持游戏](windows-pc/pcsstap-zhi-chi-you-xi.md)
+* [PC-小猴子专用版](windows-pc/pc-xiao-hou-zi-zhuan-yong-ban.md)
+* [PC-原版V2RAY](windows-pc/pc-yuan-ban-v2ray.md)
+* [PC-V2RAY-Netch](windows-pc/pc-v2ray-netch.md)
+
+## Macos-苹果电脑
+
+* [MAC-SSR&V2RAY小猴子专版](macos-ping-guo-dian-nao/macssrv2ray-xiao-hou-zi-zhuan-ban.md)
 
