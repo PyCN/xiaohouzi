@@ -65,5 +65,5 @@
 
 ## 路由器
 
-* [梅林路由器openwrt](lu-you-qi/mei-lin-lu-you-qi-openwrt.md)
+* [梅林路由器openwrt-v2ray](lu-you-qi/mei-lin-lu-you-qi-openwrt.md)
 

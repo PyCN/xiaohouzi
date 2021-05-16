@@ -1,4 +1,4 @@
-# 梅林路由器openwrt
+# 梅林路由器openwrt-v2ray
 
 ## V2RAY-梅林路由器客户端使用教程
 
