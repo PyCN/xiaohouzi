@@ -72,4 +72,6 @@
 
 * [IOS端小火箭指南](wen-ti-zhi-nan/ios-duan-xiao-huo-jian-zhi-nan.md)
 * [安卓机型，使用过程中断网问题](wen-ti-zhi-nan/an-zhuo-ji-xing-shi-yong-guo-cheng-zhong-duan-wang-wen-ti.md)
+* [关于whatsapp 使用不了](wen-ti-zhi-nan/guan-yu-whatsapp-shi-yong-bu-le.md)
+* [V2RAY 用不了的问题](wen-ti-zhi-nan/v2ray-yong-bu-le-de-wen-ti.md)
 
