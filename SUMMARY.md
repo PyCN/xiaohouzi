@@ -77,4 +77,5 @@
 * [关于whatsapp 使用不了](wen-ti-zhi-nan/guan-yu-whatsapp-shi-yong-bu-le.md)
 * [V2RAY 用不了的问题](wen-ti-zhi-nan/v2ray-yong-bu-le-de-wen-ti.md)
 * [Win10设定正确北京时间](wen-ti-zhi-nan/win10-she-ding-zheng-que-bei-jing-shi-jian.md)
+* [在 iPhone 上设定北京时间](wen-ti-zhi-nan/zai-iphone-shang-she-ding-bei-jing-shi-jian.md)
 
