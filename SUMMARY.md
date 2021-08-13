@@ -71,6 +71,7 @@
 ## 问题指南
 
 * [苹果app store日区（美区） 小火箭兑换教程](wen-ti-zhi-nan/ping-guo-app-store-ri-qu-mei-qu-xiao-huo-jian-dui-huan-jiao-cheng.md)
+* [日区App Store退出当前账号](wen-ti-zhi-nan/ri-qu-app-store-tui-chu-dang-qian-zhang-hao.md)
 * [IOS端小火箭指南](wen-ti-zhi-nan/ios-duan-xiao-huo-jian-zhi-nan.md)
 * [安卓机型，使用过程中断网问题](wen-ti-zhi-nan/an-zhuo-ji-xing-shi-yong-guo-cheng-zhong-duan-wang-wen-ti.md)
 * [关于whatsapp 使用不了](wen-ti-zhi-nan/guan-yu-whatsapp-shi-yong-bu-le.md)

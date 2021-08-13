@@ -22,7 +22,11 @@
 
 —》全局模式，意思是电脑所有的流量走代理程序，这种方式可以实现游戏加速
 
-一般情况下请您使用全局更加稳定，智能模式只能自动选择延迟最低的节点，但是并不代表服务器网络与您本地计算机状态良好![](https://www.shenlejiang.xyz/wp-content/uploads/2020/04/v01.png)输入小猴子的账号和密码  
+一般情况下请您使用全局更加稳定，智能模式只能自动选择延迟最低的节点，但是并不代表服务器网络与您本地计算机状态良好
+
+![](https://www.shenlejiang.xyz/wp-content/uploads/2020/04/v01.png)
+
+输入小猴子的账号和密码  
 ![](https://www.shenlejiang.xyz/wp-content/uploads/2020/04/v02.png)  
 选择一个节点  
 ![](https://www.shenlejiang.xyz/wp-content/uploads/2020/04/v03.png)
