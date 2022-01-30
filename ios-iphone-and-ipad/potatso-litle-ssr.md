@@ -12,17 +12,21 @@ Potatso litle 一款 免费的SSR客户端
 
 [https://apps.apple.com/us/app/potatso-lite/id1239860606](https://apps.apple.com/us/app/potatso-lite/id1239860606)![](https://www.shenlejiang.xyz/wp-content/uploads/2020/04/image-1-1024x438.png)
 
-如果您没有苹果美区ID 这里可以购买一个 ，价格大概4RMB，下面为购买链接
 
-> [美国Apple ID 购买苹果账号](http://www.idpifa.com/865.html)
+
+> 如果没有海外id您可以在以下网站购买
+>
+> [https://appidstore.cc/](https://appidstore.cc)
+>
+> [https://lgappleid.top/](https://lgappleid.top)
 
 ![](https://www.shenlejiang.xyz/wp-content/uploads/2020/04/022-658x1024.png)
 
-步骤一:在小猴子用户中心-&gt;找到SSR订阅地址-&gt;点击复制![](https://www.shenlejiang.xyz/wp-content/uploads/2020/04/03-2-576x1024.png)
+步骤一:在小猴子用户中心->找到SSR订阅地址->点击复制![](https://www.shenlejiang.xyz/wp-content/uploads/2020/04/03-2-576x1024.png)
 
 复制小猴子SSR订阅地址在Potatso litle 里面![](https://www.shenlejiang.xyz/wp-content/uploads/2020/04/04-1-576x1024.png)
 
-NAME这里填写 ：xiaohouzi subscription URL 填写小猴子SSR的订阅链接  
+NAME这里填写 ：xiaohouzi subscription URL 填写小猴子SSR的订阅链接\
 ![](https://www.shenlejiang.xyz/wp-content/uploads/2020/04/05-1-576x1024.png)
 
 更新订阅
@@ -31,3 +35,6 @@ NAME这里填写 ：xiaohouzi subscription URL 填写小猴子SSR的订阅链接
 
 选择一个节点，点击开始后，开启代理
 
+{% embed url="https://www.shenlejiang.xyz/wp-content/uploads/2021/12/poto.mp4" %}
+
+{% embed url="https://www.shenlejiang.xyz/?docs=%E5%B0%8F%E7%8C%B4%E5%AD%90%E6%95%99%E7%A8%8B%2Fios-iphoneipad%2Fpotatso-litle-ssriphone-ipad" %}

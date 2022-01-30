@@ -1,6 +1,6 @@
-# Shadowrocket 小火箭-SSR&V2RAY
+# Shadowrocket 小火箭-SSR\&V2RAY
 
-Shadowrocket 一款 付费苹果的SSR&V2RAY客户端,美区价格为2.99美元
+Shadowrocket 一款 付费苹果的SSR\&V2RAY客户端,美区价格为2.99美元
 
 国区因为政策的原因无法下载，目前美区Apple id 可以下载该款软件
 
@@ -18,22 +18,22 @@ Shadowrocket 一款 付费苹果的SSR&V2RAY客户端,美区价格为2.99美元
 
 打开 Shadowrocket，点击 + 按钮
 
-在新的页面中，选择「类型」为 Subscribe（订阅）用户中心–&gt;节点订阅，优先使用v2ray更稳定
+在新的页面中，选择「类型」为 Subscribe（订阅）用户中心–>节点订阅，优先使用v2ray更稳定
 
 在 URL 一栏粘贴自己的`订阅链接` ，备注一栏可以随便填写
 
 方法二：通过二维码扫描
 
-方法三:通过复制节点链接 通常 ssr链接以ssr：//开头 v2ray 以为 vmess：//链接开头![](https://www.shenlejiang.xyz/wp-content/uploads/2020/04/01-3-1024x574.png)  
-  
-  
+方法三:通过复制节点链接 通常 ssr链接以ssr：//开头 v2ray 以为 vmess：//链接开头![](https://www.shenlejiang.xyz/wp-content/uploads/2020/04/01-3-1024x574.png)\
+\
+\
 ![](https://www.shenlejiang.xyz/wp-content/uploads/2020/04/02-3-473x1024.png)![](https://www.shenlejiang.xyz/wp-content/uploads/2020/04/03-4-473x1024.png)
 
 ![](https://www.shenlejiang.xyz/wp-content/uploads/2020/04/04-3-473x1024.png)
 
-小猴子面板–&gt;用户中心–&gt;v2ray–&gt;点击复制![](https://www.shenlejiang.xyz/wp-content/uploads/2020/05/%E6%88%AA%E5%B1%8F2020-05-29-%E4%B8%8B%E5%8D%885.12.37-1.png)![](https://www.shenlejiang.xyz/wp-content/uploads/2020/04/05-3-473x1024.png)  
-![](https://www.shenlejiang.xyz/wp-content/uploads/2020/04/06-2-473x1024.png)  
-  
+小猴子面板–>用户中心–>v2ray–>点击复制![](https://www.shenlejiang.xyz/wp-content/uploads/2020/05/%E6%88%AA%E5%B1%8F2020-05-29-%E4%B8%8B%E5%8D%885.12.37-1.png)![](https://www.shenlejiang.xyz/wp-content/uploads/2020/04/05-3-473x1024.png)\
+![](https://www.shenlejiang.xyz/wp-content/uploads/2020/04/06-2-473x1024.png)\
+\
 
 
 如果您需要订阅V2RAY的节点，可以参照以上的步骤进行订阅并更新节点
@@ -48,9 +48,9 @@ Shadowrocket 一款 付费苹果的SSR&V2RAY客户端,美区价格为2.99美元
 
 ————————————分割线————————————
 
-**IOS系统更新线路的方法指南：  
-★注意：**  
-    **更新前请务必先断开启动按钮后再进行更新操作，否则更新失败。**
+**IOS系统更新线路的方法指南：**\
+**★注意：**\
+&#x20; ****  **更新前请务必先断开启动按钮后再进行更新操作，否则更新失败。**
 
 ![](https://ava.shenlejiang.xyz/?docs=%e5%b0%8f%e7%8c%b4%e5%ad%90%e6%95%99%e7%a8%8b/ios-iphoneipad/shadowrocket-%e5%b0%8f%e7%81%ab%e7%85%8e-ssrv2ray)**★更新订阅线路的方法：**
 
@@ -71,4 +71,3 @@ IOS可以点击启动按钮下方的（连通性测试）来测试线路是否�
 三：关闭WIFI，在4G状态下打开飞行模式，稍等两三秒，关闭飞行模式，重复操作两次。网络恢复后使用流量进行更新订阅。
 
 四：重启手机后进行更新订阅。
-

@@ -40,8 +40,8 @@ shadowsocksR 有2种方式可以添加代理节点
 
 设置SSR服务器订阅设置![](https://www.shenlejiang.xyz/wp-content/uploads/2020/04/007.png)
 
-在这里点击ADD 然后把面板的那个链接复制到里面，然后再网址这里添加您自己的订阅节点信息![](https://www.shenlejiang.xyz/wp-content/uploads/2020/04/008.png)  
-  
+在这里点击ADD 然后把面板的那个链接复制到里面，然后再网址这里添加您自己的订阅节点信息![](https://www.shenlejiang.xyz/wp-content/uploads/2020/04/008.png)\
+\
 每次需要更新节点信息的时候点击更新SSR服务器订阅信息（别点通过代理）![](https://www.shenlejiang.xyz/wp-content/uploads/2020/04/009-1.png)
 
 更新完成后，面板的节点信息会到您的SSR里面
@@ -53,4 +53,3 @@ PS: PAC模式意思是不代理国内网站不走科学上网，海外网站走�
 全局模式：意思是国内网站也通过代理服务器科学上网。
 
 如果您设置好了，再打开谷歌或者youtube试试，成功了就可以科学上网了
-
