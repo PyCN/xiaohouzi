@@ -20,18 +20,18 @@
 >
 > [https://lgappleid.top/](https://lgappleid.top)
 
-![](https://www.shenlejiang.xyz/wp-content/uploads/2020/04/022-658x1024.png)
+
 
 步骤一:在小猴子用户中心->找到SSR订阅地址->点击复制![](https://www.shenlejiang.xyz/wp-content/uploads/2020/04/03-2-576x1024.png)
 
 复制小猴子SSR订阅地址在Potatso litle 里面![](https://www.shenlejiang.xyz/wp-content/uploads/2020/04/04-1-576x1024.png)
 
 NAME这里填写 ：xiaohouzi subscription URL 填写小猴子SSR的订阅链接\
-![](https://www.shenlejiang.xyz/wp-content/uploads/2020/04/05-1-576x1024.png)
+
 
 更新订阅
 
-![](https://www.shenlejiang.xyz/wp-content/uploads/2020/04/06-576x1024.png)
+
 
 选择一个节点，点击开始后，开启代理
 
