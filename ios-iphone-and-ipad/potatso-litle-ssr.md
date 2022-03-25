@@ -1,18 +1,18 @@
 # Potatso LITLE-SSR
 
-因为目前SS SSR协议容易被防火墙阻断，目前的SSR协议 是通过走隧道给SSR多层加密才能实现科学上网，因为成本比较高，敏感时期暂不提供免费用户SSR，希望理解
-
-您可以通过小火箭?获取节点信息——–[教程地址](https://www.shenlejiang.xyz/?docs=%e5%b0%8f%e7%8c%b4%e5%ad%90%e6%95%99%e7%a8%8b/ios-iphoneipad/shadowrocket-%e5%b0%8f%e7%81%ab%e7%85%8e-ssrv2ray)
-
-Potatso litle 一款 免费的SSR客户端
-
-国区因为政策的原因无法下载，目前美区Apple id 可以下载该款软件
-
-下载链接：
-
-[https://apps.apple.com/us/app/potatso-lite/id1239860606](https://apps.apple.com/us/app/potatso-lite/id1239860606)![](https://www.shenlejiang.xyz/wp-content/uploads/2020/04/image-1-1024x438.png)
+## Potatso LITLE-SSR(IPHONE IPAD)
 
 
+
+## Potatso LITLE
+
+免费shadowsocksR 代理软件，特点简单易用
+
+国区因为政策的原因无法下载，目前美区 日区 港区 海外Apple id 可以下载该款软件，以下为苹果美区下载链接
+
+{% embed url="https://apps.apple.com/us/app/potatso-lite/id1239860606" %}
+
+![](https://www.shenlejiang.xyz/wp-content/uploads/2021/12/QQ%E5%9B%BE%E7%89%8720220121212820.jpg)
 
 > 如果没有海外id您可以在以下网站购买
 >
