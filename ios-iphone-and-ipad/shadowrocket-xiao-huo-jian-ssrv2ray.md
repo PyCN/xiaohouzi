@@ -24,15 +24,48 @@ Shadowrocket 一款 付费苹果的SSR\&V2RAY客户端,美区价格为2.99美元
 
 方法二：通过二维码扫描
 
-方法三:通过复制节点链接 通常 ssr链接以ssr：//开头 v2ray 以为 vmess：//链接开头![](https://www.shenlejiang.xyz/wp-content/uploads/2020/04/01-3-1024x574.png)\
+方法三:通过复制节点链接 通常 ssr链接以ssr：//开头 v2ray 以为 vmess：//链接开头![](https://www.shenlejiang.xyz/wp-content/uploads/2020/04/01-3-1024x574.png)
+
+海外苹果ID 购买网站一：
+
+[https://appidstore.cc/](https://appidstore.cc)
+
+[https://lgappleid.top/](https://lgappleid.top)
+
+方法一:通过订阅方式获取节点服务器(推荐使用）
+
+{% embed url="https://www.shenlejiang.xyz/wp-content/uploads/2020/06/QQ%E8%A7%86%E9%A2%9120200610182816-3.mp4" %}
+
+
+
+打开 Shadowrocket，点击 + 按钮
+
+在新的页面中，选择「类型」为 Subscribe（订阅）用户中心–>节点订阅，优先使用v2ray更稳定
+
+![](https://www.shenlejiang.xyz/wp-content/uploads/2022/01/zxc-1024x524.png)
+
+在 URL 一栏粘贴自己的`订阅链接` ，备注一栏可以随便填写
+
+第一步：点击右上角的 + 号
+
+第二步：点击 类型
+
+第三步：选择 第三项 Subscribe
+
+此时应去小猴子网站面板–>用户中心–>点击复制您的订阅地址（可以导入SSR 和V2RAY订阅）
+
+第四步：将复制的订阅地址粘贴进到URL一栏中，并点击完成
+
+第五步：滑动此处订阅，并点击更新。（如果提示更新失败或超时，请参考本文最后的四种解决方法）
+
+**注意：第五步手动更新订阅。非常重要，如果线路有问题，您想要更新线路，也可在此处点击更新，更新成功即可。（断开连接以后，才可以更新您的线路）**\
 \
 \
-![](https://www.shenlejiang.xyz/wp-content/uploads/2020/04/02-3-473x1024.png)![](https://www.shenlejiang.xyz/wp-content/uploads/2020/04/03-4-473x1024.png)
 
-![](https://www.shenlejiang.xyz/wp-content/uploads/2020/04/04-3-473x1024.png)
 
-小猴子面板–>用户中心–>v2ray–>点击复制![](https://www.shenlejiang.xyz/wp-content/uploads/2020/05/%E6%88%AA%E5%B1%8F2020-05-29-%E4%B8%8B%E5%8D%885.12.37-1.png)![](https://www.shenlejiang.xyz/wp-content/uploads/2020/04/05-3-473x1024.png)\
-![](https://www.shenlejiang.xyz/wp-content/uploads/2020/04/06-2-473x1024.png)\
+![](../.gitbook/assets/QQ图片20220326014550.png)
+
+小猴子面板–>用户中心–>v2ray–>点击复\
 \
 
 
