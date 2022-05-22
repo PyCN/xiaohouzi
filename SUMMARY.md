@@ -64,6 +64,8 @@
 * [苹果-MAC MACBOOK 专用客户端2.0](xiao-hou-zi-2.0-jiao-cheng-ke-hu-duan-xia-zai/ping-guo-mac-macbook-zhuan-yong-ke-hu-duan-2.0.md)
 * [苹果-iphone%ipad-shadowrockt](xiao-hou-zi-2.0-jiao-cheng-ke-hu-duan-xia-zai/ping-guo-iphoneipadshadowrockt.md)
 * [LINUX-客户端Clash](xiao-hou-zi-2.0-jiao-cheng-ke-hu-duan-xia-zai/linux-ke-hu-duan-clash.md)
+* [路由器-梅林](xiao-hou-zi-2.0-jiao-cheng-ke-hu-duan-xia-zai/lu-you-qi-mei-lin.md)
+* [Page 2](xiao-hou-zi-2.0-jiao-cheng-ke-hu-duan-xia-zai/page-2.md)
 
 ## 问题指南
 
