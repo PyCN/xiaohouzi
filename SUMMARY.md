@@ -83,7 +83,7 @@
   * [Shadowrocket 小火箭-SSR\&V2RAY（推荐使用）](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/ios-iphone-and-ipad/shadowrocket-xiao-huo-jian-ssrv2ray-tui-jian-shi-yong.md)
 * [路由器](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/lu-you-qi/README.md)
   * [梅林路由器openwrt-v2ray](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/lu-you-qi/mei-lin-lu-you-qi-openwrtv2ray.md)
-* [Page 6](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/page-6.md)
+  * [梅林路由器openwrt-ssr](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/lu-you-qi/mei-lin-lu-you-qi-openwrtssr.md)
 
 ## Linux-ubuntu-v2ray
 
