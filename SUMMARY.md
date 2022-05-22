@@ -68,6 +68,10 @@
 * [梅林路由器openwrt-v2ray](lu-you-qi/mei-lin-lu-you-qi-openwrt.md)
 * [梅林路由器openwrt-ssr](lu-you-qi/mei-lin-lu-you-qi-openwrtssr.md)
 
+## 🥳 小猴子1.0教程&客户端
+
+* [小猴子1.0 SSR V2RAY](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/xiao-hou-zi-1.0-ssr-v2ray.md)
+
 ## 😀 小猴子2.0教程，客户端下载
 
 * [小猴子2.0-trojan加密](xiao-hou-zi-2.0-jiao-cheng-ke-hu-duan-xia-zai/xiao-hou-zi-2.0trojan-jia-mi.md)
