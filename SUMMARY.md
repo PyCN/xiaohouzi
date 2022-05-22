@@ -83,3 +83,4 @@
 ## Group 1
 
 * [小猴子2.0-trojan加密](group-1/xiao-hou-zi-2.0trojan-jia-mi.md)
+* [PC-WINDOWS小猴子专用客户端2.0](group-1/pcwindows-xiao-hou-zi-zhuan-yong-ke-hu-duan-2.0.md)
