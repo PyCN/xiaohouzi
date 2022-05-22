@@ -71,8 +71,12 @@
   * [MAC-SSR\&V2RAY小猴子1.0专版](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/macos-ping-guo-dian-nao/macssrv2ray-xiao-hou-zi-1.0-zhuan-ban.md)
   * [MAC-SSR\&V2RAY原版](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/macos-ping-guo-dian-nao/macssrv2ray-yuan-ban.md)
   * [MAC-V2ray-clashx原版推荐](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/macos-ping-guo-dian-nao/macv2rayclashx-yuan-ban-tui-jian.md)
+* [Android-安卓](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/android-an-zhuo/README.md)
+  * [android-v2ray原版](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/android-an-zhuo/androidv2ray-yuan-ban.md)
+  * [Page 2](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/android-an-zhuo/page-2.md)
+  * [Page 1](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/android-an-zhuo/page-1.md)
+  * [Page 5](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/android-an-zhuo/page-5.md)
 * [Page 3](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/page-3.md)
-* [Page 4](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/page-4.md)
 
 ## Linux-ubuntu-v2ray
 
