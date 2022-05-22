@@ -16,9 +16,9 @@
 
 > 如果没有海外id您可以在以下网站购买
 >
-> [https://appidstore.cc/](https://appidstore.cc)
+> [https://appidstore.cc/](https://appidstore.cc/)
 >
-> [https://lgappleid.top/](https://lgappleid.top)
+> [https://lgappleid.top/](https://lgappleid.top/)
 
 
 
