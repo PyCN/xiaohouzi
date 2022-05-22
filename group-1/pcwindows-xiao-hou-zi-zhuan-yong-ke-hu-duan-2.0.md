@@ -21,6 +21,6 @@
 
 <img src="https://www.shenlejiang.xyz/wp-content/uploads/2020/04/12323.png" alt="" data-size="original">
 
-<img src="https://www.shenlejiang.xyz/wp-content/uploads/2022/05/QQ%E5%9B%BE%E7%89%8720220502182425-1024x740.png" alt="" data-size="original">
+![](https://www.shenlejiang.xyz/wp-content/uploads/2022/05/QQ%E5%9B%BE%E7%89%8720220502182425-1024x740.png)
 
-<img src="https://www.shenlejiang.xyz/wp-content/uploads/2022/05/QQ%E5%9B%BE%E7%89%8720220502181431-1024x745.png" alt="" data-size="original">
+![](https://www.shenlejiang.xyz/wp-content/uploads/2022/05/QQ%E5%9B%BE%E7%89%8720220502181431-1024x745.png)
