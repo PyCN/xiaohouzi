@@ -78,7 +78,7 @@
   * [Android-小猴子1.0专版SSR\&V2RAY](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/android-an-zhuo/android-xiao-hou-zi-1.0-zhuan-ban-ssrv2ray.md)
 * [ios-iphone\&ipad](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/ios-iphone-and-ipad/README.md)
   * [Potatso LITLE-SSR(IPHONE IPAD)](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/ios-iphone-and-ipad/potatso-litle-ssr-iphone-ipad.md)
-  * [Page 2](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/ios-iphone-and-ipad/page-2.md)
+  * [Shadowrocket 小火箭-SSR\&V2RAY（推荐使用）](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/ios-iphone-and-ipad/shadowrocket-xiao-huo-jian-ssrv2ray-tui-jian-shi-yong.md)
 * [Page 3](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/page-3.md)
 
 ## Linux-ubuntu-v2ray
