@@ -73,7 +73,7 @@
   * [MAC-V2ray-clashx原版推荐](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/macos-ping-guo-dian-nao/macv2rayclashx-yuan-ban-tui-jian.md)
 * [Android-安卓](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/android-an-zhuo/README.md)
   * [android-v2ray原版](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/android-an-zhuo/androidv2ray-yuan-ban.md)
-  * [Page 2](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/android-an-zhuo/page-2.md)
+  * [android-CLASHR原版](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/android-an-zhuo/androidclashr-yuan-ban.md)
   * [Page 1](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/android-an-zhuo/page-1.md)
   * [Page 5](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/android-an-zhuo/page-5.md)
 * [Page 3](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/page-3.md)
