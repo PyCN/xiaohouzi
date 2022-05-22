@@ -58,19 +58,32 @@
 * [Potatso LITLE-SSR](ios-iphone-and-ipad/potatso-litle-ssr.md)
 * [Shadowrocket 小火箭-SSR\&V2RAY](ios-iphone-and-ipad/shadowrocket-xiao-huo-jian-ssrv2ray.md)
 
+## 🥳 小猴子1.0教程&客户端
+
+* [小猴子1.0 SSR V2RAY](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/xiao-hou-zi-1.0-ssr-v2ray.md)
+* [Page 3](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/page-3.md)
+* [windows-pc教程&客户端](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/windowspc-jiao-cheng-ke-hu-duan/README.md)
+  * [Page 7](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/windowspc-jiao-cheng-ke-hu-duan/page-7.md)
+  * [Page 2](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/windowspc-jiao-cheng-ke-hu-duan/page-2.md)
+* [Page 6](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/page-6.md)
+* [Page 4](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/page-4.md)
+* [Page 5](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/page-5.md)
+* [Page 1](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/page-1.md)
+
 ## Linux-ubuntu-v2ray
 
 * [v2rayL](linux-ubuntu-v2ray/v2rayl.md)
 * [QV2Ray](linux-ubuntu-v2ray/qv2ray.md)
 
+## Copy of Linux-ubuntu-v2ray <a href="#linux-ubuntu-v2ray" id="linux-ubuntu-v2ray"></a>
+
+* [v2rayL](linux-ubuntu-v2ray-1/v2rayl.md)
+* [QV2Ray](linux-ubuntu-v2ray-1/qv2ray.md)
+
 ## 路由器
 
 * [梅林路由器openwrt-v2ray](lu-you-qi/mei-lin-lu-you-qi-openwrt.md)
 * [梅林路由器openwrt-ssr](lu-you-qi/mei-lin-lu-you-qi-openwrtssr.md)
-
-## 🥳 小猴子1.0教程&客户端
-
-* [小猴子1.0 SSR V2RAY](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/xiao-hou-zi-1.0-ssr-v2ray.md)
 
 ## 😀 小猴子2.0教程，客户端下载
 
