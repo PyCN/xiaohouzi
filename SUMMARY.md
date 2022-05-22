@@ -75,7 +75,7 @@
   * [android-v2ray原版](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/android-an-zhuo/androidv2ray-yuan-ban.md)
   * [android-CLASHR原版](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/android-an-zhuo/androidclashr-yuan-ban.md)
   * [android-ssr\&v2ray原版](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/android-an-zhuo/androidssrv2ray-yuan-ban.md)
-  * [Page 5](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/android-an-zhuo/page-5.md)
+  * [Android-小猴子专版SSR\&V2RAY](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/android-an-zhuo/android-xiao-hou-zi-zhuan-ban-ssrv2ray.md)
 * [Page 3](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/page-3.md)
 
 ## Linux-ubuntu-v2ray
