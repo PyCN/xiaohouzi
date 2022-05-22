@@ -1,0 +1,78 @@
+# 苹果-iphone%ipad-shadowrockt
+
+**Shadowrocket 小火箭**
+
+Shadowrocket -小火箭
+
+支持SHADOWSOCKSR V2RAY 等加密方式
+
+一款 付费苹果的SSR\&V2RAY客户端,美区价格为2.99美元
+
+![](https://www.shenlejiang.xyz/wp-content/uploads/2020/04/01-1-1024x574.png)
+
+国区因为政策的原因无法下载，目前美区 日区 港区 海外Apple id 可以下载该款软件
+
+如果您在使用过程中有其他问题，可以参考[IOS小火箭问题指南](https://www.shenlejiang.xyz/?docs=%e5%b0%8f%e7%8c%b4%e5%ad%90/%e9%97%ae%e9%a2%98%e6%b1%87%e6%80%bb/ios%e7%ab%af%e5%b0%8f%e7%81%ab%e7%ae%ad%e6%8c%87%e5%8d%97)
+
+购买并下载链接
+
+[https://apps.apple.com/us/app/shadowrocket/id932747118](https://apps.apple.com/us/app/shadowrocket/id932747118)
+
+由于小火箭shadowrocket需要苹果美区ID 并需要支付2.99美金购买，然后需要信用卡支付，您可以在下面网站购买自带苹果美区的ID 购买共享的美区id，共享ID的价格为1.99RMB 美区独享SHADOWSOCKSR 小火箭 29.8RMB
+
+海外苹果ID 购买网站一：
+
+[https://appidstore.cc/](https://appidstore.cc/)
+
+[https://lgappleid.top/](https://lgappleid.top/)
+
+方法一:通过订阅方式获取节点服务器(推荐使用）
+
+{% embed url="https://www.shenlejiang.xyz/upload/rocket2.0.mp4" %}
+
+打开 Shadowrocket，点击 + 按钮
+
+在新的页面中，选择「类型」为 Subscribe（订阅）用户中心–>节点订阅，使用shadowrocket订阅
+
+![](https://www.shenlejiang.xyz/wp-content/uploads/2022/05/QQ%E5%9B%BE%E7%89%8720220505040013.png)
+
+在 URL 一栏粘贴自己的`订阅链接` ，备注一栏可以随便填写
+
+第一步：点击右上角的 + 号
+
+第二步：点击 类型
+
+第三步：选择 第三项 Subscribe
+
+此时应去小猴子网站面板–>用户中心–>点击复制您的订阅地址（可以导入TROJAN订阅）
+
+第四步：将复制的订阅地址粘贴进到URL一栏中，并点击完成
+
+第五步：滑动此处订阅，并点击更新。（如果提示更新失败或超时，请参考本文最后的四种解决方法）
+
+**注意：第五步手动更新订阅。非常重要，如果线路有问题，您想要更新线路，也可在此处点击更新，更新成功即可。（断开连接以后，才可以更新您的线路）**
+
+![](https://www.shenlejiang.xyz/wp-content/uploads/2022/05/QQ%E5%9B%BE%E7%89%8720220505040152-1024x391.png)
+
+**★注意：**\
+&#x20; ****  **更新前请务必先断开启动按钮后再进行更新操作，否则更新失败。**
+
+**★更新订阅线路的方法：**
+
+**手动更新方法：**先**断开启动按钮**以后，从右向左（或从左向右）滑动订阅，并点击**更新**即可。
+
+**自动更新方法：**如果打开了自动更新（软件右下设置，服务器订阅，打开时更新），则先**断开启动**按钮，重启软件（完全关闭软件），稍等两秒就会提示更新成功。
+
+**★延迟检测的方法：**
+
+IOS可以点击启动按钮下方的（连通性测试）来测试线路是否畅通。显示超时的为不可用线路。
+
+**★无法更新订阅（超时或失败）的四种解决方法：**
+
+一：清理掉本软件的运行后台，稍等两三秒然后重新打开软件再更新。
+
+二：切换WIFI或4G再更新。
+
+三：关闭WIFI，在4G状态下打开飞行模式，稍等两三秒，关闭飞行模式，重复操作两次。网络恢复后使用流量进行更新订阅。
+
+四：重启手机后进行更新订阅。

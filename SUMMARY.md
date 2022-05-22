@@ -74,6 +74,7 @@
 * [PC-WINDOWS小猴子专用客户端2.0](xiao-hou-zi-2.0-jiao-cheng-ke-hu-duan-xia-zai/pcwindows-xiao-hou-zi-zhuan-yong-ke-hu-duan-2.0.md)
 * [ANDROID-安卓小猴子专用客户端2.0](xiao-hou-zi-2.0-jiao-cheng-ke-hu-duan-xia-zai/android-an-zhuo-xiao-hou-zi-zhuan-yong-ke-hu-duan-2.0.md)
 * [苹果-MAC MACBOOK 专用客户端2.0](xiao-hou-zi-2.0-jiao-cheng-ke-hu-duan-xia-zai/ping-guo-mac-macbook-zhuan-yong-ke-hu-duan-2.0.md)
+* [苹果-iphone%ipad-shadowrockt](xiao-hou-zi-2.0-jiao-cheng-ke-hu-duan-xia-zai/ping-guo-iphoneipadshadowrockt.md)
 
 ## 问题指南
 
