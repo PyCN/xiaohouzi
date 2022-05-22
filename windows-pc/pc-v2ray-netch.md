@@ -10,7 +10,7 @@ Netch 是一款同时支持 SSR V2RAY 的加速软件，并且支持游戏加速
 
 系统安装环境需要如下：一般win10以上系统都会满足一下运行环境
 
-* [http://34.96.136.54/](http://34.96.136.54)[Visual C++ 运行库合集](https://www.google.com/search?q=Visual+C%2B%2B+%E8%BF%90%E8%A1%8C%E5%BA%93%E5%90%88%E9%9B%86)
+* [http://34.96.136.54/](http://34.96.136.54/)[Visual C++ 运行库合集](https://www.google.com/search?q=Visual+C%2B%2B+%E8%BF%90%E8%A1%8C%E5%BA%93%E5%90%88%E9%9B%86)
 * [.NET Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net48-offline-installer)
 * [TAP-Windows](http://jc.muyiyun.top:276/tap-windows-9.21.2.exe) —>>>>备用下载[TAP-WINDOWS](http://34.96.136.54/tap-windows-9.21.2.exe)
 

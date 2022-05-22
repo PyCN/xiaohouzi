@@ -28,9 +28,9 @@ Shadowrocket 一款 付费苹果的SSR\&V2RAY客户端,美区价格为2.99美元
 
 海外苹果ID 购买网站一：
 
-[https://appidstore.cc/](https://appidstore.cc)
+[https://appidstore.cc/](https://appidstore.cc/)
 
-[https://lgappleid.top/](https://lgappleid.top)
+[https://lgappleid.top/](https://lgappleid.top/)
 
 方法一:通过订阅方式获取节点服务器(推荐使用）
 

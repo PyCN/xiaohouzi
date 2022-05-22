@@ -68,6 +68,13 @@
 * [梅林路由器openwrt-v2ray](lu-you-qi/mei-lin-lu-you-qi-openwrt.md)
 * [梅林路由器openwrt-ssr](lu-you-qi/mei-lin-lu-you-qi-openwrtssr.md)
 
+## 😀 小猴子2.0教程，客户端下载
+
+* [小猴子2.0-trojan加密](xiao-hou-zi-2.0-jiao-cheng-ke-hu-duan-xia-zai/xiao-hou-zi-2.0trojan-jia-mi.md)
+* [PC-WINDOWS小猴子专用客户端2.0](xiao-hou-zi-2.0-jiao-cheng-ke-hu-duan-xia-zai/pcwindows-xiao-hou-zi-zhuan-yong-ke-hu-duan-2.0.md)
+* [ANDROID-安卓小猴子专用客户端2.0](xiao-hou-zi-2.0-jiao-cheng-ke-hu-duan-xia-zai/android-an-zhuo-xiao-hou-zi-zhuan-yong-ke-hu-duan-2.0.md)
+* [苹果-MAC MACBOOK 专用客户端2.0](xiao-hou-zi-2.0-jiao-cheng-ke-hu-duan-xia-zai/ping-guo-mac-macbook-zhuan-yong-ke-hu-duan-2.0.md)
+
 ## 问题指南
 
 * [苹果app store日区（美区） 小火箭兑换教程](wen-ti-zhi-nan/ping-guo-app-store-ri-qu-mei-qu-xiao-huo-jian-dui-huan-jiao-cheng.md)
@@ -79,8 +86,3 @@
 * [Win10设定正确北京时间](wen-ti-zhi-nan/win10-she-ding-zheng-que-bei-jing-shi-jian.md)
 * [在 iPhone 上设定北京时间](wen-ti-zhi-nan/zai-iphone-shang-she-ding-bei-jing-shi-jian.md)
 * [Android安卓设定北京时间](wen-ti-zhi-nan/android-an-zhuo-she-ding-bei-jing-shi-jian.md)
-
-## Group 1
-
-* [小猴子2.0-trojan加密](group-1/xiao-hou-zi-2.0trojan-jia-mi.md)
-* [PC-WINDOWS小猴子专用客户端2.0](group-1/pcwindows-xiao-hou-zi-zhuan-yong-ke-hu-duan-2.0.md)
