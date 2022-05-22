@@ -29,35 +29,6 @@
 * [科学上网无法使用问题汇总](ke-xue-shang-wang-wu-fa-shi-yong-wen-ti-hui-zong.md)
 * [小猴子网站打不开解决办法](xiao-hou-zi-wang-zhan-da-bu-kai.md)
 
-## windows-PC
-
-* [PC–原版SSR](windows-pc/pc-yuan-ban-ssr.md)
-* [PC-SSTAP支持游戏](windows-pc/pcsstap-zhi-chi-you-xi.md)
-* [PC-小猴子专用版](windows-pc/pc-xiao-hou-zi-zhuan-yong-ban.md)
-* [PC-原版V2RAY](windows-pc/pc-yuan-ban-v2ray.md)
-* [PC-V2RAY-Netch](windows-pc/pc-v2ray-netch.md)
-
-## Macos-苹果电脑
-
-* [MAC-SSR\&V2RAY小猴子专版](macos-ping-guo-dian-nao/macssrv2ray-xiao-hou-zi-zhuan-ban.md)
-* [MAC-SSR原版](macos-ping-guo-dian-nao/macssr-yuan-ban.md)
-
-***
-
-* [MAC-SSR\&V2RAY原版](macssrv2ray-yuan-ban.md)
-* [MAC-V2ray-clashx原版推荐](macv2rayclashx-yuan-ban-tui-jian.md)
-
-## android-安卓
-
-* [android-v2ray原版](android-an-zhuo/androidv2ray-yuan-ban.md)
-* [android-ssr\&v2ray原版](android-an-zhuo/androidssrv2ray-yuan-ban.md)
-* [android-小猴子专版SSR\&V2RAY](android-an-zhuo/android-xiao-hou-zi-zhuan-ban-ssrv2ray.md)
-
-## ios-iphone\&ipad
-
-* [Potatso LITLE-SSR](ios-iphone-and-ipad/potatso-litle-ssr.md)
-* [Shadowrocket 小火箭-SSR\&V2RAY](ios-iphone-and-ipad/shadowrocket-xiao-huo-jian-ssrv2ray.md)
-
 ## 🥳 小猴子1.0教程&客户端
 
 * [小猴子1.0 SSR V2RAY](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/xiao-hou-zi-1.0-ssr-v2ray.md)
@@ -70,7 +41,7 @@
 * [Macos-苹果电脑](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/macos-ping-guo-dian-nao/README.md)
   * [MAC-SSR\&V2RAY小猴子1.0专版](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/macos-ping-guo-dian-nao/macssrv2ray-xiao-hou-zi-1.0-zhuan-ban.md)
   * [MAC-SSR\&V2RAY原版](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/macos-ping-guo-dian-nao/macssrv2ray-yuan-ban.md)
-  * [MAC-V2ray-clashx原版推荐](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/macos-ping-guo-dian-nao/macv2rayclashx-yuan-ban-tui-jian.md)
+  * [MAC-V2ray-clashR原版推荐](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/macos-ping-guo-dian-nao/macv2rayclashr-yuan-ban-tui-jian.md)
 * [Android-安卓](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/android-an-zhuo/README.md)
   * [android-v2ray原版](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/android-an-zhuo/androidv2ray-yuan-ban.md)
   * [android-CLASHR原版](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/android-an-zhuo/androidclashr-yuan-ban.md)
@@ -84,21 +55,6 @@
 * [路由器](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/lu-you-qi/README.md)
   * [梅林路由器openwrt-v2ray](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/lu-you-qi/mei-lin-lu-you-qi-openwrtv2ray.md)
   * [梅林路由器openwrt-ssr](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/lu-you-qi/mei-lin-lu-you-qi-openwrtssr.md)
-
-## Linux-ubuntu-v2ray
-
-* [v2rayL](linux-ubuntu-v2ray/v2rayl.md)
-* [QV2Ray](linux-ubuntu-v2ray/qv2ray.md)
-
-## Copy of Linux-ubuntu-v2ray <a href="#linux-ubuntu-v2ray" id="linux-ubuntu-v2ray"></a>
-
-* [v2rayL](linux-ubuntu-v2ray-1/v2rayl.md)
-* [QV2Ray](linux-ubuntu-v2ray-1/qv2ray.md)
-
-## 路由器
-
-* [梅林路由器openwrt-v2ray](lu-you-qi/mei-lin-lu-you-qi-openwrt.md)
-* [梅林路由器openwrt-ssr](lu-you-qi/mei-lin-lu-you-qi-openwrtssr.md)
 
 ## 😀 小猴子2.0教程，客户端下载
 
