@@ -76,14 +76,14 @@
   * [android-CLASHR原版](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/android-an-zhuo/androidclashr-yuan-ban.md)
   * [android-ssr\&v2ray原版](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/android-an-zhuo/androidssrv2ray-yuan-ban.md)
   * [Android-小猴子1.0专版SSR\&V2RAY](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/android-an-zhuo/android-xiao-hou-zi-1.0-zhuan-ban-ssrv2ray.md)
+* [LINUX](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/linux/README.md)
+  * [QV2Ray](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/linux/qv2ray.md)
 * [ios-iphone\&ipad](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/ios-iphone-and-ipad/README.md)
   * [Potatso LITLE-SSR(IPHONE IPAD)](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/ios-iphone-and-ipad/potatso-litle-ssr-iphone-ipad.md)
   * [Shadowrocket 小火箭-SSR\&V2RAY（推荐使用）](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/ios-iphone-and-ipad/shadowrocket-xiao-huo-jian-ssrv2ray-tui-jian-shi-yong.md)
-* [Page 4](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/page-4.md)
-* [LINUX](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/linux/README.md)
-  * [QV2Ray](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/linux/qv2ray.md)
-  * [Page 1](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/linux/page-1.md)
-  * [Page 2](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/linux/page-2.md)
+* [路由器](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/lu-you-qi/README.md)
+  * [梅林路由器openwrt-v2ray](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/lu-you-qi/mei-lin-lu-you-qi-openwrtv2ray.md)
+* [Page 6](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/page-6.md)
 
 ## Linux-ubuntu-v2ray
 
