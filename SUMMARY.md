@@ -66,7 +66,7 @@
   * [PC-小猴子专用版](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/windowspc-jiao-cheng-ke-hu-duan/pc-xiao-hou-zi-zhuan-yong-ban.md)
   * [PC-SSTAP支持游戏](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/windowspc-jiao-cheng-ke-hu-duan/pcsstap-zhi-chi-you-xi.md)
   * [PC-V2RAY-Netch](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/windowspc-jiao-cheng-ke-hu-duan/pc-v2ray-netch.md)
-* [Page 6](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/page-6.md)
+  * [PC-CLASHR-V2RAY](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/windowspc-jiao-cheng-ke-hu-duan/pc-clashr-v2ray.md)
 * [Page 1](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/page-1.md)
 * [Page 8](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/page-8.md)
 * [Page 4](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/page-4.md)
