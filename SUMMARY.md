@@ -68,11 +68,11 @@
   * [PC-V2RAY-Netch](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/windowspc-jiao-cheng-ke-hu-duan/pc-v2ray-netch.md)
   * [PC-CLASHR-V2RAY](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/windowspc-jiao-cheng-ke-hu-duan/pc-clashr-v2ray.md)
 * [Macos-苹果电脑](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/macos-ping-guo-dian-nao/README.md)
-  * [MAC-SSR\&V2RAY小猴子1.0专版](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/macos-ping-guo-dian-nao/macssrv2ray-xiao-hou-zi-1.0-zhuan-ban/README.md)
-    * [Page 4](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/macos-ping-guo-dian-nao/macssrv2ray-xiao-hou-zi-1.0-zhuan-ban/page-4.md)
-* [Page 5](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/page-5.md)
-* [Page 1](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/page-1.md)
-* [Page 2](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/page-2.md)
+  * [MAC-SSR\&V2RAY小猴子1.0专版](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/macos-ping-guo-dian-nao/macssrv2ray-xiao-hou-zi-1.0-zhuan-ban.md)
+  * [MAC-SSR\&V2RAY原版](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/macos-ping-guo-dian-nao/macssrv2ray-yuan-ban.md)
+  * [MAC-V2ray-clashx原版推荐](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/macos-ping-guo-dian-nao/macv2rayclashx-yuan-ban-tui-jian.md)
+* [Page 3](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/page-3.md)
+* [Page 4](xiao-hou-zi-1.0-jiao-cheng-ke-hu-duan/page-4.md)
 
 ## Linux-ubuntu-v2ray
 
